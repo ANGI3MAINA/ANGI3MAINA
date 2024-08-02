@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angela W Maina
-- 👀 I’m interested in Climate Change and Air quality Monitoring
-- 🌱 I’m currently learning Data Science, Machine Learning and AI
-- 💞️ I’m looking to collaborate on  building machine learning models for air quality to explain effects of climate change
+- 👀 I’m interested in being a Data Scientist in the field of Climate Change and Air Quality Monitoring
+- 🌱 I’m currently an Environment Officer and learning Data Science, Machine Learning and AI
+- 💞️ I’m looking to collaborate on  building Machine Learning models for air quality to explain effects of climate change
 - 📫 How to reach me - linked in @ ANGELA MAINA
 - 😄 Pronouns: She/ Her
   
